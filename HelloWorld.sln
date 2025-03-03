@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9BA87FAA-CFBB-44A2-BEEA-A3F6F6271FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "src\HelloWorld\HelloWorld.csproj", "{B6A462E6-1F40-46ED-9A49-C1942769AC22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A462E6-1F40-46ED-9A49-C1942769AC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A462E6-1F40-46ED-9A49-C1942769AC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A462E6-1F40-46ED-9A49-C1942769AC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A462E6-1F40-46ED-9A49-C1942769AC22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B6A462E6-1F40-46ED-9A49-C1942769AC22} = {9BA87FAA-CFBB-44A2-BEEA-A3F6F6271FC3}
+	EndGlobalSection
+EndGlobal
